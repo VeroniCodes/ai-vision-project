@@ -66,6 +66,16 @@ This project was built to support visually impaired users by translating images 
 
 ---
 
+## 🚧 Project Status
+
+> **This project is a work in progress.**  
+> New features and improvements are continuously being added.  
+> Planned: improved image descriptions, multilingual support, better UI.
+> 
+>  *I'm still learning and developing new skills, and this project grows with me.* 😊
+
+---
+
 ## 🌱 Goals
 
 - Dive deeper into Computer Vision with real-world challenges  
