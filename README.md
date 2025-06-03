@@ -1,5 +1,11 @@
 # AI Vision App with Object Detection and TTS
 
+![Status](https://img.shields.io/badge/status-in_progress-orange)
+![Language](https://img.shields.io/badge/language-Python-blue)
+![AI](https://img.shields.io/badge/AI-Computer_Vision-lightgrey)
+![TTS](https://img.shields.io/badge/TTS-pyttsx3-purple)
+![License](https://img.shields.io/badge/license-MIT-green)
+
 Welcome to my first public AI project! This app uses the **Azure AI Vision API** to analyze an image, recognize objects, and then **describes it using text-to-speech (TTS)** – providing a helpful tool especially for the visually impaired.
 
 ---
